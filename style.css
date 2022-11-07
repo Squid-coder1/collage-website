@@ -1,0 +1,21 @@
+.copy_right_footer {
+position:fixed;
+bottom:0;
+width:100%;
+text-align:center;
+box-shadow:0 6px 8px rgba(2,2,2,0,2);
+}
+.h1 {
+    text-emphasis-color:blue;
+}
+.h4 {
+    text-decoration-color: blueviolet;
+}
+#camera {
+    width:500;
+    height: 400;
+    border-color: gold;
+}
+img:hovering{
+    border-radius:140px
+}
